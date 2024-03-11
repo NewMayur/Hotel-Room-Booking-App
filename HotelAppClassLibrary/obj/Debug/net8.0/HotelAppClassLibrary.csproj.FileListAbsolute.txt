@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\HotelDBApp\HotelAppClassLibrary\bin\Debug\net8.0\HotelAppClassLibrary.deps.json
+C:\Users\ADMIN\source\repos\HotelDBApp\HotelAppClassLibrary\bin\Debug\net8.0\HotelAppClassLibrary.dll
+C:\Users\ADMIN\source\repos\HotelDBApp\HotelAppClassLibrary\bin\Debug\net8.0\HotelAppClassLibrary.pdb
+C:\Users\ADMIN\source\repos\HotelDBApp\HotelAppClassLibrary\obj\Debug\net8.0\HotelAppClassLibrary.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\HotelDBApp\HotelAppClassLibrary\obj\Debug\net8.0\HotelAppClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\HotelDBApp\HotelAppClassLibrary\obj\Debug\net8.0\HotelAppClassLibrary.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\HotelDBApp\HotelAppClassLibrary\obj\Debug\net8.0\HotelAppClassLibrary.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\HotelDBApp\HotelAppClassLibrary\obj\Debug\net8.0\HotelAppClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\HotelDBApp\HotelAppClassLibrary\obj\Debug\net8.0\HotelAppClassLibrary.sourcelink.json
+C:\Users\ADMIN\source\repos\HotelDBApp\HotelAppClassLibrary\obj\Debug\net8.0\HotelAppClassLibrary.dll
+C:\Users\ADMIN\source\repos\HotelDBApp\HotelAppClassLibrary\obj\Debug\net8.0\refint\HotelAppClassLibrary.dll
+C:\Users\ADMIN\source\repos\HotelDBApp\HotelAppClassLibrary\obj\Debug\net8.0\HotelAppClassLibrary.pdb
+C:\Users\ADMIN\source\repos\HotelDBApp\HotelAppClassLibrary\obj\Debug\net8.0\ref\HotelAppClassLibrary.dll

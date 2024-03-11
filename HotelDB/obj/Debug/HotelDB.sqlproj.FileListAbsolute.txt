@@ -1,0 +1,6 @@
+C:\Users\ADMIN\source\repos\HotelDBApp\HotelDB\bin\Debug\HotelDB.dacpac
+C:\Users\ADMIN\source\repos\HotelDBApp\HotelDB\bin\Debug\HotelDB.dll
+C:\Users\ADMIN\source\repos\HotelDBApp\HotelDB\bin\Debug\HotelDB.pdb
+C:\Users\ADMIN\source\repos\HotelDBApp\HotelDB\obj\Debug\HotelDB.sqlproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\HotelDBApp\HotelDB\obj\Debug\HotelDB.dll
+C:\Users\ADMIN\source\repos\HotelDBApp\HotelDB\obj\Debug\HotelDB.pdb
